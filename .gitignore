@@ -1,4 +1,8 @@
-# Server-side files (private)
+# Only delta_cli.cpp and delta.exe are public
+*.exe
+*.bak
+
+# Server-side files
 server.php
 delta.php
 delta_master.php
@@ -10,18 +14,26 @@ example.php
 test.php
 usedelta.php
 
+# Frontend / tools (private)
+api_usage.html
+pay.html
+gen_qr.py
+qr_config.json
+
+# Generated assets
+qr.png
+qr.txt
+
+# Test configs
+test/
+
 # Personal config / data
 delta.json
 users.json
 usage.json
 payments.json
 
-# Temp / build files
-*.bak
+# Temp files
 temp_*.txt
 btcusd_response.txt
 test_response.txt
-
-# Test server configs
-test/delta.json
-test/token.json
