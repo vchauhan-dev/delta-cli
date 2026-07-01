@@ -1,5 +1,5 @@
-# Only delta_cli.cpp and delta.exe are public
-*.exe
+# Only delta.exe is public
+delta_cli.cpp
 *.bak
 
 # Server-side files
