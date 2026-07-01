@@ -1,0 +1,9 @@
+*.exe
+*.bak
+delta.json
+users.json
+usage.json
+payments.json
+temp_*.txt
+btcusd_response.txt
+test_response.txt

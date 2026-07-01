@@ -1,0 +1,5 @@
+emailid=techbharti@gmail.com
+apikey=W7vSdcACrxsw29QprOOiytubM9ZQhG
+apisecret=m0Hy6q3H1u3pBslWP2qHyyRPjO3BOJSkOh3dvMKMbNBmClOiliCYp9fa65Jg
+baseurl=https://cdn-ind.testnet.deltaex.org
+license=M0iJ3+JWGKr8WIxgqxjnnjRM21EfJfuQCp3K3WUpH54=

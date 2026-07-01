@@ -1,0 +1,5 @@
+emailid=vishwadeep.chauhan@gmail.com
+apikey=iXxRbF26UqMqJ2UN8csABALDivjqvZ
+apisecret=g4m9cEFruHndB6BbqdV5UKbnwouEIa4nk5wQrzDnN3Kj04fC6NrccbI5dHVP
+baseurl=https://api.india.delta.exchange
+license=W8XTfe9We0yK9bVHAq5sbOWanrMBWmOIm8JtXaWbOiU=
