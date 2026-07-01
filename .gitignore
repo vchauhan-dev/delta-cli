@@ -1,9 +1,27 @@
-*.exe
-*.bak
+# Server-side files (private)
+server.php
+delta.php
+delta_master.php
+crypto.php
+config.php
+generate_token.php
+client_example.php
+example.php
+test.php
+usedelta.php
+
+# Personal config / data
 delta.json
 users.json
 usage.json
 payments.json
+
+# Temp / build files
+*.bak
 temp_*.txt
 btcusd_response.txt
 test_response.txt
+
+# Test server configs
+test/delta.json
+test/token.json
